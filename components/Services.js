@@ -16,7 +16,7 @@ const Services = ({ services }) => {
 							<div className={styles.media}>
 								{service.video ? (
 									<video
-										src={service.video}
+										src={`/img/${service.video}`}
 										autoPlay
 										loop
 										className={styles.video}
