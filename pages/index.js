@@ -5,7 +5,7 @@ import Testimonials from '../components/Testimonials';
 import { data } from '../data';
 
 export default function Home({ services }) {
-	console.log(services);
+	
 	return (
 		<div>
 			<Head>
