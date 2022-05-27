@@ -13,7 +13,7 @@ const Intro = () => {
 				<button className={styles.button}>DISCOVER</button>
 			</div>
 			<div className={styles.card}>
-				<Image priority src="/img/face.jpg" layout="fill" />
+				<Image priority src="/img/face.jpg" layout="fill" alt=''/>
 			</div>
 		</div>
 	);

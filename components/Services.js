@@ -30,6 +30,7 @@ const Services = ({ services }) => {
 										height="100"
 										layout="responsive"
 										objectFit="cover"
+										alt=''
 									/>
 								)}
 							</div>
